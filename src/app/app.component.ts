@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import mapboxgl, { GeoJSONSource } from 'mapbox-gl';
-import { RulerControl, StylesControl, ZoomControl, CompassControl, LanguageControl, InspectControl, TooltipControl } from 'mapbox-gl-controls';
+import { RulerControl, StylesControl, ZoomControl, CompassControl, LanguageControl, InspectControl } from 'mapbox-gl-controls';
 
 @Component({
   selector: 'app-root',
